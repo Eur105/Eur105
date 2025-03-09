@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Eur105/Eur105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## ⚡ Tech Stack  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -16,10 +13,10 @@
 ---
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eur105&show_icons=true&theme=dark)  
+![Eur105's GitHub Stats](https://ghp-readme-stats.vercel.app/api?username=Eur105&show_icons=true&theme=dark)  
 
 ## 🏆 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eur105&layout=compact&theme=dark)  
+![Top Langs](https://ghp-readme-stats.vercel.app/api/top-langs/?username=Eur105&layout=compact&theme=dark)  
 
 ---
 
@@ -28,5 +25,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Eur105)  
 
 ⭐ Feel free to check out my projects and contribute! 🚀  
-.
--->
