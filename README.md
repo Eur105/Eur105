@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+🔭 I’m currently working on **my personal portfolio**  
+🌱 I’m currently learning **React.js & improving my Flutter skills**  
+👯 I’m looking to collaborate on **open-source projects & exciting development opportunities**  
+🤔 I’m looking for help with **advanced backend development & system design**  
+💬 Ask me about **Flutter, C++, JavaScript, DSA, and Databases**  
+📫 How to reach me: **[Your Email]**  
+⚡ Fun fact: **I love solving complex coding problems & optimizing algorithms**
+
 ## ⚡ Tech Stack  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
