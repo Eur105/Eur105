@@ -20,14 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Eur105's GitHub Stats](https://ghp-readme-stats.vercel.app/api?username=Eur105&show_icons=true&theme=dark)  
-
-## 🏆 Most Used Languages  
-![Top Langs](https://ghp-readme-stats.vercel.app/api/top-langs/?username=Eur105&layout=compact&theme=dark)  
-
----
-
 ## 🌍 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ebad-ur-rehman-714a4a304/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Eur105)  
