@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently working on **my personal portfolio**  
+🔭 I’m currently working on **Sportify**  
 🌱 I’m currently learning **React.js & improving my Flutter skills**  
 👯 I’m looking to collaborate on **open-source projects & exciting development opportunities**  
 🤔 I’m looking for help with **advanced backend development & system design**  
