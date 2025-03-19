@@ -5,7 +5,7 @@
 👯 I’m looking to collaborate on **open-source projects & exciting development opportunities**  
 🤔 I’m looking for help with **advanced backend development & system design**  
 💬 Ask me about **Flutter, C++, JavaScript, DSA, and Databases**  
-📫 How to reach me: **[Your Email]**  
+📫 How to reach me: **eurrehman105@gmail.com**  
 ⚡ Fun fact: **I love solving complex coding problems & optimizing algorithms**
 
 ## ⚡ Tech Stack  
